@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
             workingPlaceType.push(obj)
         }
+        console.log("Loaded workingPlaceType:", workingPlaceType);
     } catch (error) {
         console.error("Error loading CSV data:", error);
     }
