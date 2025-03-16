@@ -1,0 +1,21 @@
+id,place_name,type,opening_hour,rating,lat,long,image_path
+1,Me thoe cafe,Cafe,เปิด 24 ชั่วโมง,4.1,16.4697381840215,102.831269647355,/img/workplace/1.jpeg
+2,The Space,Co-working-Space,09:00 - 24:00,4.0,16.4805063858231,102.820525002773,/img/workplace/2.jpeg
+3,True Coffee@Central plaza Khon Kaen,Cafe,10:00 - 20:00,4.3,16.4324134310113,102.825484973016,/img/workplace/3.jpeg
+4,Tom N Toms coffee,Cafe,09:00 - 21:00,4.2,16.4314737505755,102.831022036244,/img/workplace/4.jpeg
+5,โปรดปราน Cafe' and Eatery,Cafe,11:00 - 21:00,4.9,16.4586158706528,102.827868543651,/img/workplace/5.jpeg
+6,หอสมุดกลาง ม.ขอนแก่น,Library,08:30 - 20:00,4.6,16.4767859195608,102.824196517448,/img/workplace/6.jpeg
+7,หอสมุดวิศวะรวมใจ,Library,08:30 - 16:30,4.4,16.4734848843133,102.823941401323,/img/workplace/7.jpeg
+8,คณะวิศวกรรมศาสตร์ (พื้นที่ใต้คณะ),Faculty,เปิด 24 ชั่วโมง,4.2,16.4723731618908,102.824040341799,/img/workplace/8.jpeg
+9,คณะมนุษยศาสตร์และสังคมศาสตร์ (ใต้คณะ),Faculty,เปิด 24 ชั่วโมง,4.1,16.4750389368985,102.826340745503,/img/workplace/9.jpeg
+10,คณะวิทยาศาสตร์ (ใต้คณะ),Faculty,เปิด 24 ชั่วโมง,4.3,16.4762028447832,102.824654105396,/img/workplace/10.jpeg
+11,NEWBURY COFFEE HOUSE,Cafe,11:00 - 22:00,4.7,16.480426779854,102.815397522634,/img/workplace/11.jpeg
+12,Sri Brown Cafe,Cafe,09:00 - 20:00,4.6,16.4605027912041,102.82873376508,/img/workplace/12.jpeg
+13,Loading Matcha Cafe,Cafe,08:30 - 24:00,4.4,16.4602558696086,102.828770972487,/img/workplace/13.jpeg
+14,aimmes cafe,Cafe,09:00 - 24:00,4.5,16.4351292998424,102.838637272487,/img/workplace/14.jpeg
+15,CLASS,Co-working-Space,เปิด 24 ชั่วโมง,4.5,16.4397732533148,102.827185822752,/img/workplace/15.jpeg
+16,The Beegins,Co-working-Space,08:30 - 16:30,4.2,16.4560022659737,102.819669566932,/img/workplace/16.jpeg
+17,Collab@CentralKhonkaen,Co-working-Space,10:00 - 20:00,4.2,16.433132115141,102.827166057143,/img/workplace/17.jpeg
+18,Moooo Milk Bar,Cafe,12:00 - 02:00,4.5,16.4598671722998,102.829549166932,/img/workplace/18.jpeg
+19,Pa Klang Mueang Café | ป่ากลางเมือง Café & Co-Working space,Cafe,09:30 - 17:30,4.3,16.4261173685778,102.861861437539,/img/workplace/19.jpeg
+20,คณะสถาปัตยกรรมศาสตร์ (ใต้คณะ),Faculty,เปิด 24 ชั่วโมง,4.2,16.4718499163164,102.827632291535,/img/workplace/20.jpeg
