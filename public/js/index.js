@@ -1,16 +1,20 @@
 let workingPlaceType = [];
 document.addEventListener('DOMContentLoaded', async () => {
-    const response = await fetch('/data/workplace_types.csv')
-    let data = await response.text()
-    data = data.split('\n').map(row => row.split(',').map(cell => cell.trim()))
-    const header = data.shift()
-    data = data.filter(row => row.length == header.length)
-    for (const row of data) {
-        let obj = {}
-        for (let i = 0; i < row.length; i++) {
-            obj[header[i]] = row[i]
+    try {
+        const response = await fetch('/data/workplace_types.csv')
+        let data = await response.text()
+        data = data.split('\n').map(row => row.split(',').map(cell => cell.trim()))
+        const header = data.shift()
+        data = data.filter(row => row.length == header.length)
+        for (const row of data) {
+            let obj = {}
+            for (let i = 0; i < row.length; i++) {
+                obj[header[i]] = row[i]
+            }
+            workingPlaceType.push(obj)
         }
-        workingPlaceType.push(obj)
+    } catch (error) {
+        console.error("Error loading CSV data:", error);
     }
 });
 
